@@ -17,8 +17,8 @@ Input 1 (6 Million is solely infected population)
 0.125
 0.05
 0.1
-267531735
-43142799
+261368478
+49306056
 6163257
 308163
 14648272
@@ -36,56 +36,4 @@ Input 2 (6 million is combined infected+exposed population)
 38521
 14648272
 250
-0.1
-#####################################
-Input 3 (6 Million is solely infected population, Higher infected->quarantine)
-0.166
-0.125
-0.10
-0.1
-267531735
-43142799
-6163257
-308163
-14648272
-200
-0.1
-#####################################
-Input 4 (6 Million is solely infected population, lower infected->quarantine)
-0.166
-0.125
-0.025
-0.1
-267531735
-43142799
-6163257
-308163
-14648272
-200
-0.1
-#####################################
-Input 5 (6 million is combined infected+exposed population, Higher infected->quarantine)
-0.166
-0.125
-0.10
-0.1
-310944176
-43142799
-6163257
-308163
-14648272
-200
-0.1
-#####################################
-Input 6 (6 million is combined infected+exposed population, lower infected->quarantine)
-0.166
-0.125
-0.025
-0.1
-310944176
-43142799
-6163257
-308163
-14648272
-200
 0.1
