@@ -22,7 +22,7 @@ Input 1 (6 Million is solely infected population)
 6163257
 308163
 14648272
-200
+90
 0.1
 #####################################
 Input 2 (6 million is combined infected+exposed population)
@@ -35,5 +35,5 @@ Input 2 (6 million is combined infected+exposed population)
 770407
 38521
 14648272
-250
+90
 0.1
